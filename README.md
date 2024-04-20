@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zeyad Khaled</h1>
-📚study at the [Faculty of Engineering, Cairo University](https://eng.cu.edu.eg/ar/)<br>
-👨🏽‍🔬studying in in the Healthcare Engineering and Management program [BDE](https://eng.cu.edu.eg/wp-content/uploads/credituser/2015/S7_CUFE-2023-BDE-REG2023-V1-WM.pdf)<br>
+📚study at the Faculty of Engineering, Cairo University]<br>
+👨🏽‍🔬studying in in the Healthcare Engineering and Management program <br>
 👨🏽‍💻Interested in programming and coding<br>
 
 
@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/zeyad khaled" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zeyad khaled" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/zeyad-khaled-461a012b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zeyad khaled" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/zeyad_khaled_29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="zeyad_khaled_29" height="30" width="40" /></a>
 </p>
 
