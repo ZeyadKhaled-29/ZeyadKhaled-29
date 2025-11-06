@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zeyad Khaled</h1>
 📚study at the Faculty of Engineering, Cairo University]<br>
-👨🏽‍🔬studying in in the Healthcare Engineering and Management program <br>
 👨🏽‍💻Interested in programming and coding<br>
 
 
